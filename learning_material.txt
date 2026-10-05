@@ -1,0 +1,53 @@
+FULL STACK DEVELOPMENT
+
+HTML:
+HTML is used to create the structure of web pages.
+Learn headings, paragraphs, links, images, forms and tables.
+
+CSS:
+CSS is used to style web pages.
+Learn selectors, colors, layouts, Flexbox, Grid and responsive design.
+
+JAVASCRIPT:
+JavaScript adds interactivity to websites.
+Learn variables, functions, arrays, objects, DOM, ES6 and async/await.
+
+REACT:
+React is a JavaScript library for building user interfaces.
+Learn components, props, state, hooks and React Router.
+
+NODE.JS:
+Node.js allows JavaScript to run on the server.
+Learn modules, npm, APIs and server-side programming.
+
+EXPRESS:
+Express is a Node.js framework used to create backend APIs.
+Learn routes, middleware and REST APIs.
+
+MONGODB:
+MongoDB is a NoSQL database.
+Learn databases, collections, documents and CRUD operations.
+
+SQL:
+SQL is used to work with relational databases.
+Learn SELECT, INSERT, UPDATE, DELETE, JOIN and database design.
+
+PYTHON:
+Python is a programming language used for web development, AI and data analysis.
+Learn variables, functions, lists, dictionaries, OOP and modules.
+
+GIT:
+Git is a version control system.
+Learn repositories, commit, push, pull, branches and GitHub.
+
+DOCKER:
+Docker is used to package applications into containers.
+Learn images, containers, Dockerfiles and basic Docker commands.
+
+CLOUD COMPUTING:
+Cloud computing provides computing resources over the internet.
+Learn AWS, Azure, cloud storage, virtual machines and deployment.
+
+MACHINE LEARNING:
+Machine learning allows computers to learn patterns from data.
+Learn supervised learning, unsupervised learning, regression, classification and model evaluation.
